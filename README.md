@@ -8,3 +8,4 @@ maven 3.6.3
 before running:
 update your env.properties.
 you can put EXCEL_FILE_PATH empty and it will save the excel in the project folder.
+run App class.
